@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rafaelmsales27
+- 👀 I’m interested in programming for industrial automation
+- 🌱 I’m currently learning Python and C#
+- 💞️ I’m looking to collaborate on anything!
+- 📫 How to reach me. Email: rafaelmsales27@gmail.com
