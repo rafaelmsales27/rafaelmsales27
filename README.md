@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rafaelmsales27.
 - 👀 I’m interested in programming for industrial automation and web development.
 - 🌱 I’m currently learning Python, HTML, CSS and JavaScript.
-- 💞️ I’m looking to collaborate on IoT, PLC related code, Industrial equipment related coding, Machine Vision, Machine Learning and Full stack web development.
+- 💞️ I’m looking to collaborate on Machine Vision, Machine Learning and Full stack web development.
 - 📫 How to reach me. Email: rafaelmsales27@gmail.com
