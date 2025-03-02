@@ -13,17 +13,19 @@
 - 💻 I specialize in **Full-Stack Web Development**  
 - 🌱 Currently learning **Angular & Laravel**  
 - 🔧 Tech stack:
-   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Yii2](https://img.shields.io/badge/Yii2-8DC63F?style=for-the-badge&logo=yiiframework&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
 
 - 👯 Looking to collaborate on **exciting web development projects**  
 - 📫 How to reach me: **rafaelmsales27@gmail.com**  
@@ -33,7 +35,7 @@
 ### 🌟 Featured Projects
 
 **Teledyne DALSA Camera Image Capture**  
-[![Teledyne DALSA Camera Image Capture](https://github.com/rafaelmsales/teledyne-dalsa-image-capture/raw/main/screenshot.png)](https://github.com/rafaelmsales/teledyne-dalsa-image-capture)
+[Repo](https://github.com/rafaelmsales27/save-pic-teledyne-dalsa-camera)
 
 **Description:**  
 Developed a C# application to interface with the Teledyne DALSA Genie Nano C1950IF camera, enabling image capture and storage on a computer for subsequent processing. Utilized Teledyne DALSA's [Sapera LT SDK](https://www.teledynevisionsolutions.com/products/sapera-lt-sdk?vertical=tvs-dalsa-oem&segment=tvs) to facilitate camera communication and image acquisition.
