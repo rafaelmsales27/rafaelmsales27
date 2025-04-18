@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">A passionate full-stack web developer</h3>
+<h3 align="center">A Industrial Automation Enginner and full-stack web developer</h3>
 
 <!-- Profile Views Counter -->
 <p align="center">
